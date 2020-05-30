@@ -1,0 +1,37 @@
+/* Variables */
+
+/* 
+- Dark Blue (intro and email sign up background): hsl(217, 28%, 15%)
+- Dark Blue (main background): hsl(218, 28%, 13%)
+- Dark Blue (footer background): hsl(216, 53%, 9%)
+- Dark Blue (testimonials background): hsl(219, 30%, 18%) */
+
+:root{
+
+
+    /* ------------- Colors ------------- */
+
+    /* Primary */
+    --darkA:    hsl(217, 28%, 15%);     /* intro and email sign up background */
+    --darkB:    hsl(218, 28%, 13%);     /* main background */
+    --darkC:    hsl(216, 53%, 9%);      /* footer background */
+    --dark:     hsl(219, 30%, 18%);     /* testimonials background */
+
+    /* Accent */
+    --ace1:     hsl(176, 68%, 64%);     /* inside call-to-action gradient */
+    --ace2:     hsl(198, 60%, 50%);     /* inside call-to-action gradient */
+    
+    /* Nuteral */
+    --nute:     hsl(0, 0%, 100%);
+    
+    /* ------------- Typography ------------- */
+    
+    /* Body Copy */
+    --copyFZ:   14px;
+    --hiWeight: 700;
+    --loweight: 400;
+    --hiFont:   "Raleway", sans-serif;
+    --loFont:   "Open sans", sans-serif;
+
+}
+
